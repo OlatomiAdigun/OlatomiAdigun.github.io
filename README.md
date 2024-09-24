@@ -39,7 +39,7 @@
 
 # Objective 
 
-- What is the key pain point? 
+- What is the key main point? 
 
 The Head of Marketing wants to find out who the top YouTubers are in 2024 to decide on which YouTubers would be best to run marketing campaigns throughout the rest of the year.
 
@@ -167,7 +167,7 @@ This is the stage where you have a scan of what's in the data, errors, inconcsis
 
 
 ## Data cleaning 
-- What do we expect the clean data to look like? (What should it contain? What contraints should we apply to it?)
+- What do we expect the clean data to look like? (What should it contain? What constraints should we apply to it?)
 
 The aim is to refine our dataset to ensure it is structured and ready for analysis. 
 
