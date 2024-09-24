@@ -274,7 +274,7 @@ FROM
 
 ```
 
-![Row count check](assets/images/1_row_count_check.png)
+![Row count check](assets/images/1_row_count_check1.png)
 
 
 
