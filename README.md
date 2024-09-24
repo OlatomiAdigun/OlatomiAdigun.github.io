@@ -1,3 +1,3 @@
 # Data Portfolio
 
-This is my portfolio website!
+![excel-to-powerbi-animated-diagram](assets/images/kaggle_to_powerbi.gif)
