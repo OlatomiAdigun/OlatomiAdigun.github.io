@@ -450,25 +450,25 @@ Here are the key questions we need to answer for our marketing client:
 
 | Rank | Channel Name         | Subscribers (M) |
 |------|----------------------|-----------------|
-| 1    | NoCopyrightSounds    | 33.60           |
-| 2    | DanTDM               | 28.60           |
-| 3    | Dan Rhodes           | 26.50           |
-| 4    | Miss Katy            | 24.50           |
-| 5    | Mister Max           | 24.40           |
+| 1    | NoCopyrightSounds    | 33.80           |
+| 2    | DanTDM               | 28.90           |
+| 3    | Dan Rhodes           | 27.20           |
+| 4    | Miss Katy            | 24.90           |
+| 5    | Mister Max           | 24.70           |
 | 6    | KSI                  | 24.10           |
-| 7    | Jelly                | 23.50           |
-| 8    | Dua Lipa             | 23.30           |
-| 9    | Sidemen              | 21.00           |
-| 10   | Ali-A                | 18.90           |
+| 7    | Dua Lipa             | 23.70           |
+| 8    | Jelly                | 23.60           |
+| 9    | Sidemen              | 21.60           |
+| 10   | Mrwhosetheboss       | 19.50           |
 
 
 ### 2. Which 3 channels have uploaded the most videos?
 
 | Rank | Channel Name    | Videos Uploaded |
 |------|-----------------|-----------------|
-| 1    | GRM Daily       | 14,696          |
-| 2    | Manchester City | 8,248           |
-| 3    | Yogscast        | 6,435           |
+| 1    | GRM Daily       | 15,096          |
+| 2    | Manchester City | 8,584           |
+| 3    | Yogscast        | 6,697           |
 
 
 
@@ -477,27 +477,27 @@ Here are the key questions we need to answer for our marketing client:
 
 | Rank | Channel Name | Total Views (B) |
 |------|--------------|-----------------|
-| 1    | DanTDM       | 19.78           |
-| 2    | Dan Rhodes   | 18.56           |
-| 3    | Mister Max   | 15.97           |
+| 1    | DanTDM       | 19.97           |
+| 2    | Dan Rhodes   | 19.06           |
+| 3    | Mister Max   | 16.22           |
 
 
 ### 4. Which 3 channels have the highest average views per video?
 
 | Channel Name | Averge Views per Video (M) |
 |--------------|-----------------|
-| Mark Ronson  | 32.27           |
-| Jessie J     | 5.97            |
-| Dua Lipa     | 5.76            |
+| Mark Ronson  | 33.60           |
+| Jessie J     | 6.16            |
+| Dua Lipa     | 4.85            |
 
 
 ### 5. Which 3 channels have the highest views per subscriber ratio?
 
 | Rank | Channel Name       | Views per Subscriber        |
 |------|-----------------   |---------------------------- |
-| 1    | GRM Daily          | 1185.79                     |
-| 2    | Nickelodeon        | 1061.04                     |
-| 3    | Disney Junior UK   | 1031.97                     |
+| 1    | GRM Daily          | 1203.15  '                  |
+| 2    | Nickelodeon        | 1062.81                     |
+| 3    | Disney Junior UK   | 1035.80                     |
 
 
 
@@ -505,9 +505,9 @@ Here are the key questions we need to answer for our marketing client:
 
 | Rank | Channel Name    | Subscriber Engagement Rate  |
 |------|-----------------|---------------------------- |
-| 1    | Mark Ronson     | 343,000                     |
-| 2    | Jessie J        | 110,416.67                  |
-| 3    | Dua Lipa        | 104,954.95                  |
+| 1    | Mark Ronson     | 346,500                     |
+| 2    | Jessie J        | 111,458.33                  |
+| 3    | Dua Lipa        | 84,642.86                   |
 
 
 
@@ -531,30 +531,30 @@ For this analysis, we'll prioritize analysing the metrics that are important in 
 Campaign idea = product placement 
 
 1. NoCopyrightSounds 
-- Average views per video = 6.92 million
+- Average views per video = 6.34 million
 - Product cost = $5
-- Potential units sold per video = 6.92 million x 2% conversion rate = 138,400 units sold
-- Potential revenue per video = 138,400 x $5 = $692,000
+- Potential units sold per video = 6.34 million x 2% conversion rate = 126,800 units sold
+- Potential revenue per video = 126,800 x $5 = $634,000
 - Campaign cost (one-time fee) = $50,000
-- **Net profit = $692,000 - $50,000 = $642,000**
+- **Net profit = $634,000 - $50,000 = $584,000**
 
 b. DanTDM
 
-- Average views per video = 5.34 million
+- Average views per video = 5.36 million
 - Product cost = $5
-- Potential units sold per video = 5.34 million x 2% conversion rate = 106,800 units sold
-- Potential revenue per video = 106,800 x $5 = $534,000
+- Potential units sold per video = 5.36 million x 2% conversion rate = 107,200 units sold
+- Potential revenue per video = 107,200 x $5 = $536,000
 - Campaign cost (one-time fee) = $50,000
-- **Net profit = $534,000 - $50,000 = $484,000**
+- **Net profit = $536,000 - $50,000 = $486,000**
 
 c. Dan Rhodes
 
-- Average views per video = 11.15 million
+- Average views per video = 11.42 million
 - Product cost = $5
-- Potential units sold per video = 11.15 million x 2% conversion rate = 223,000 units sold
-- Potential revenue per video = 223,000 x $5 = $1,115,000
+- Potential units sold per video = 11.42 million x 2% conversion rate = 228,400 units sold
+- Potential revenue per video = 228,400 x $5 = $1,142,000
 - Campaign cost (one-time fee) = $50,000
-- **Net profit = $1,115,000 - $50,000 = $1,065,000**
+- **Net profit = $1,142,000 - $50,000 = $1,092,000**
 
 
 Best option from category: Dan Rhodes
@@ -640,14 +640,14 @@ b. **Manchester City**
 - Campaign cost (11-videos @ $5,000 each) = $55,000
 - **Net profit = $24,000 - $55,000 = -$31,000 (potential loss)**
 
-b. **Yogscast**
+c. **Yogscast**
 
-- Average views per video = 710,000
+- Average views per video = 690,000
 - Product cost = $5
-- Potential units sold per video = 710,000 x 2% conversion rate = 14,200 units sold
-- Potential revenue per video = 14,200 x $5= $71,000
+- Potential units sold per video = 690,000 x 2% conversion rate = 13,800 units sold
+- Potential revenue per video = 13,800 x $5= $69,000
 - Campaign cost (11-videos @ $5,000 each) = $55,000
-- **Net profit = $71,000 - $55,000 = $16,000 (profit)**
+- **Net profit = $69,000 - $55,000 = $14,000 (profit)**
 
 
 Best option from category: Yogscast
@@ -716,30 +716,30 @@ Campaign idea = Influencer marketing
 
 a. DanTDM
 
-- Average views per video = 5.34 million
+- Average views per video = 5.36 million
 - Product cost = $5
-- Potential units sold per video = 5.34 million x 2% conversion rate = 106,800 units sold
-- Potential revenue per video = 106,800 x $5 = $534,000
+- Potential units sold per video = 5.36 million x 2% conversion rate = 107,200 units sold
+- Potential revenue per video = 107,200 x $5 = $536,000
 - Campaign cost (3-month contract) = $130,000
-- **Net profit = $534,000 - $130,000 = $404,000**
+- **Net profit = $536,000 - $130,000 = $406,000**
 
 b. Dan Rhodes
 
-- Average views per video = 11.15 million
+- Average views per video = 11.42 million
 - Product cost = $5
-- Potential units sold per video = 11.15 million x 2% conversion rate = 223,000 units sold
-- Potential revenue per video = 223,000 x $5 = $1,115,000
+- Potential units sold per video = 11.42 million x 2% conversion rate = 228,400 units sold
+- Potential revenue per video = 228,400 x $5 = $1,142,000
 - Campaign cost (3-month contract) = $130,000
-- **Net profit = $1,115,000 - $130,000 = $985,000**
+- **Net profit = $1,142,000 - $130,000 = $1,012,000**
 
 c. Mister Max
 
-- Average views per video = 14.06 million
+- Average views per video = 13.96 million
 - Product cost = $5
-- Potential units sold per video = 14.06 million x 2% conversion rate = 281,200 units sold
-- Potential revenue per video = 281,200 x $5 = $1,406,000
+- Potential units sold per video = 13.96 million x 2% conversion rate = 279,200 units sold
+- Potential revenue per video = 279,200 x $5 = $1,396,000
 - Campaign cost (3-month contract) = $130,000
-- **Net profit = $1,406,000 - $130,000 = $1,276,000**
+- **Net profit = $1,396,000 - $130,000 = $1,266,000**
 
 Best option from category: Mister Max
 
@@ -823,10 +823,11 @@ We discovered that
 
 - What do you recommend based on the insights gathered? 
   
-1. Dan Rhodes is the best YouTube channel to collaborate with if we want to maximize visbility because this channel has the most YouTube subscribers in the UK
-2. Although GRM Daily, Man City and Yogcasts are regular publishers on YouTube, it may be worth considering whether collaborating with them with the current budget caps are worth the effort, as the potential return on investments is significantly lower compared to the other channels.
-3. Mister Max is the best YouTuber to collaborate with if we're interested in maximizing reach, but collaborating with DanTDM and Dan Rhodes may be better long-term options considering the fact that they both have large subscriber bases and are averaging significantly high number of views.
-4. The top 3 channels to form collaborations with are NoCopyrightSounds, DanTDM and Dan Rhodes based on this analysis, because they attract the most engagement on their channels consistently.
+1. Dan Rhodes presents the highest ROI among the top 3 YouTube channels by subscriber count in the UK. Collaborating with this channel will likely maximize both visibility and return on investment
+2. While GRM Daily, Man City, and Yogcasts have the highest video output in the UK, their potential return on investment (ROI) is considerably lower compared to other channels. It may not be the most efficient use of resources to collaborate with these channels based on current metrics.
+3. Mister Max has the highest average views per video, making it the best option for maximizing reach. However, for a more sustainable, long-term strategy, DanTDM and Dan Rhodes are strong alternatives due to their large subscriber bases and considerably high average views.
+4. Based on engagement metrics, the top 3 channels to consider for collaboration are Mister Max, Dan Rhodes, and NoCopyrightSounds, as they consistently drive the most engagement across their content.
+5. In cases where engagement and reach are closely matched, the tie can be broken by evaluating how well each channel aligns with the brand or product. Channels whose content and audience demographics better match the product’s target market should be prioritized for collaboration to ensure maximum relevance and impact
 
 
 ### Potential ROI 
@@ -841,19 +842,27 @@ We discovered that
 
 
 ### Action plan
-- What course of action should we take and why?
+- Recommended Course of Action and Rationale:
 
-Based on our analysis, we beieve the best channel to advance a long-term partnership deal with to promote the client's products is the Dan Rhodes channel. 
+Based on our analysis, Mister Max is the most suitable channel for initiating a long-term partnership to promote the client's products. This recommendation is driven by Mister Max's strong average views per video and consistent engagement, making it ideal for maximizing reach and visibility.
 
-We'll have conversations with the marketing client to forecast what they also expect from this collaboration. Once we observe we're hitting the expected milestones, we'll advance with potential partnerships with DanTDM, Mister Max and NoCopyrightSounds channels in the future.   
+We will also engage the marketing team to align on expectations for this collaboration. Once we confirm we're hitting the targeted KPIs and milestones, we can explore potential partnerships with DanTDM, Dan Rhodes, and NoCopyrightSounds for future campaigns to further enhance reach and engagement.
 
-- What steps do we take to implement the recommended decisions effectively?
+-Implementation Steps:
+
+1. Initial Outreach:
+Begin by reaching out to the teams behind the identified channels, starting with Mister Max, followed by Dan Rhodes, DanTDM, and NoCopyrightSounds.
+
+2. Contract Negotiation:
+Negotiate agreements within the allocated budgets for each marketing campaign, ensuring the terms align with both the client's objectives and the channel's audience reach.
+
+3. Campaign Execution and Monitoring:
+Launch the campaigns and closely track performance against predefined KPIs (views, engagements, conversions). This will allow real-time adjustments if necessary.
+
+4. Post-Campaign Review and Optimization:
+After the campaigns conclude, review results to gather insights. Evaluate both customer feedback and engagement data from each channel's audience, and optimize future strategies based on these findings.
 
 
-1. Reach out to the teams behind each of these channels, starting with Dan Rhodes
-2. Negotiate contracts within the budgets allocated to each marketing campaign
-3. Kick off the campaigns and track each of their performances against the KPIs
-4. Review how the campaigns have gone, gather insights and optimize based on feedback from converted customers and each channel's audiences 
 
 
 
