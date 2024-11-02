@@ -4,7 +4,6 @@
 ![excel-to-powerbi-animated-diagram](assets/images/kaggle_to_powerbi.gif)
 
 
-Data Project Tools SQL  [Data project 1 Video Analysis](https://olatomiadigun.github.io/portfolio/)
 
 # Table of contents 
 
