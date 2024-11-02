@@ -3,6 +3,8 @@
 
 ![excel-to-powerbi-animated-diagram](assets/images/kaggle_to_powerbi.gif)
 
+[Data project 1 - Youtube use ](https://olatomiadigun.github.io/youtube_project/)
+
 
 
 # Table of contents 
