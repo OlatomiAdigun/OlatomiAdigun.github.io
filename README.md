@@ -8,10 +8,10 @@ With projects in energy, safety, and environmental data, I’m passionate about 
 
 ## Projects
 
-- **[Project 1: Video Game Analysis](https://yourusername.github.io/project1)** - Analyzing video game trends and presenting insights.
+- **[Project 1: Youtube Excel to Power BI](https://olatomiadigun.github.io/youtube_project/)** - Created a dashboard in Power BI using data from Excel and SQL Server to identify top UK YouTubers in 2024 based on subscriber count, views, and engagement metrics. Tools used: Excel, SQL Server, Power BI, GitHub.
 - **[Project 2: Health and Safety Data](https://yourusername.github.io/project2)** - Visualization and analysis of workplace injuries and fatalities.
 - **[Project 3: Carbon Capture Feasibility Study](https://yourusername.github.io/project3)** - Predictive modeling for CCUS technology viability.
 
 ---
 
-**Connect with me**: [LinkedIn](https://www.linkedin.com/in/yourusername)
+**Connect with me**: [LinkedIn](https://www.linkedin.com/in/olatomiadigun/)
