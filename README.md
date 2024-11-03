@@ -9,7 +9,7 @@ With projects in energy, safety, and environmental data, I’m passionate about 
 ## Projects
 
 - **[Project 1: Youtube Excel to SQL Server to Power BI](https://olatomiadigun.github.io/youtube_project/)** - Created a dashboard in Power BI using data from Excel and SQL Server to identify top UK YouTubers in 2024 based on subscriber count, views, and engagement metrics. Tools used: Excel, SQL Server, Power BI, GitHub.
-- **[Project 2: Health and Safety Data](https://yourusername.github.io/project2)** - Visualization and analysis of workplace injuries and fatalities.
+- **[Project 2: Crude Oil Production Insights in the U.S.](https://eight-anglerfish-71b.notion.site/CRUDE-OIL-PRODUCTION-INSIGHTS-IN-THE-UNITED-STATES-4312f315f3d3459d9932a80d899d6f88)** - Analyzed U.S. crude oil production trends with data from the EIA, examining rig counts, production by state, API gravity, and price relationships to understand key factors influencing production. Tools used: EIA API, Python, Plotly.
 - **[Project 3: Carbon Capture Feasibility Study](https://yourusername.github.io/project3)** - Predictive modeling for CCUS technology viability.
 
 ---
